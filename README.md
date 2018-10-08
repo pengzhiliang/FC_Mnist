@@ -26,3 +26,7 @@ python Network.py
 ```bash
 python Network_BN.py
 ```
+### 参考
+1. BN：http://chuansong.me/n/1626559751235
+2. mnist数据集：https://blog.csdn.net/qq_31823267/article/details/78586591
+3. SGD: https://blog.csdn.net/muyu709287760/article/details/62531509
